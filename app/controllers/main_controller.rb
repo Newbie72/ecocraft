@@ -1,6 +1,7 @@
 class MainController < ApplicationController
   def home
     @carousel = ["greenjob.jpg", "solarpanels1.jpg", "sustainable.jpg"]
+   end 
 
   def about_us
   end
